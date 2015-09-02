@@ -1,0 +1,7 @@
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\DocumentPrinter\bin\Debug\DocumentPrinter.dll
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\DocumentPrinter\bin\Debug\DocumentPrinter.pdb
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\DocumentPrinter\bin\Debug\CAccounts.dll
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\DocumentPrinter\bin\Debug\CAccounts.pdb
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\DocumentPrinter\obj\Debug\DocumentPrinter.csprojResolveAssemblyReference.cache
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\DocumentPrinter\obj\Debug\DocumentPrinter.dll
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\DocumentPrinter\obj\Debug\DocumentPrinter.pdb

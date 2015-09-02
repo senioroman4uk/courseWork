@@ -1,0 +1,47 @@
+﻿<UserControl x:Class="InstrClient.Tree"
+             x:Name="TreeControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="212">
+    <Grid x:Name="Grid" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+        <TreeView x:Name="MainTree" Grid.Row="1" Grid.Column="0" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+            <TreeViewItem x:Name="ProjectControl" Header="Керування роботами" Width="200">
+                <TreeViewItem x:Name="LabControl"  Header="Лабораторні роботи" Selected="LabControl_Selected">
+
+                </TreeViewItem>
+                <TreeViewItem x:Name="RGRControl"  Header="Розрахунково-графічні роботи" Selected="RGRControl_Selected">
+
+                </TreeViewItem>
+                <TreeViewItem x:Name="CourseControl"  Header="Курсові роботи" Selected="CourseControl_Selected">
+
+                </TreeViewItem>
+                <TreeViewItem x:Name="DiplomaControl"  Header="Дипломні проекти" Selected="DiplomaControl_Selected">
+
+                </TreeViewItem>
+            </TreeViewItem>
+            <TreeViewItem x:Name="Administration" Width="200" Header="Адміністрування">
+                <TreeViewItem x:Name="SubjectControl" Width="200" Header="Керування предметами" Selected="SubjectControl_Selected">
+
+                </TreeViewItem>
+                <TreeViewItem x:Name="GroupControl" Width="200" Header="Керування групами" Selected="GroupControl_Selected">
+
+                </TreeViewItem>
+                <TreeViewItem x:Name="StudentControl" Width="200" Header="Керування студентами" Selected="StudentControl_Selected">
+
+                </TreeViewItem>
+                <TreeViewItem x:Name="SpecialityControl" Width="200" Header="Керування спеціальностями" Selected="SpecialityControl_Selected">
+
+                </TreeViewItem>
+            </TreeViewItem>
+            <TreeViewItem Header="Робота зі студентами" Name="WorkWithStudents" Width="200">
+                <TreeViewItem Name="WorkWithLabs" Header="Лабораторні роботи" Width="200" Selected="WorkWithLabs_OnSelected"></TreeViewItem>
+                <TreeViewItem Name="WorkWithRgr" Header="Розрахункові роботи" Width="200" Selected="WorkWithRgr_OnSelected"></TreeViewItem>
+                <TreeViewItem Name="WorkWithCourseProject" Header="Курсові роботи" Width="200" Selected="WorkWithCourseProject_OnSelected"></TreeViewItem>    
+                <TreeViewItem Name="WorkWithDiploma" Header="Дипломні роботи" Width="200" Selected="WorkWithDiploma_OnSelected"></TreeViewItem>    
+            </TreeViewItem>
+        </TreeView>
+    </Grid>
+</UserControl>

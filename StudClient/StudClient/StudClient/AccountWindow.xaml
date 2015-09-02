@@ -1,0 +1,72 @@
+﻿<Window x:Class="StudClient.AccountWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="AccountWindow" Height="300" Width="590" MaxWidth="590" MaxHeight="300" MinWidth="590" MinHeight="300">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                <GradientStop Color="#FFBFD7EC" Offset="0"/>
+                <GradientStop Color="White" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <TextBox  MinWidth="160" MaxWidth="160"  VerticalAlignment="Top" HorizontalAlignment="Left" x:Name="PhoneBox" FontSize="16" Margin="26,30,0,0" Height="30"/>
+        <TextBlock IsHitTestVisible="False" VerticalAlignment="Top" FontSize="16" Text="Номер телефону" HorizontalAlignment="Left" Margin="29,33,0,0" Foreground="DarkGray" Height="27" Width="150">
+            <TextBlock.Style>
+                <Style TargetType="{x:Type TextBlock}">
+                    <Setter Property="Visibility" Value="Collapsed"/>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding Text, ElementName=PhoneBox}" Value="">
+                            <Setter Property="Visibility" Value="Visible"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </TextBlock.Style>
+        </TextBlock>
+
+        <TextBox  MinWidth="522" MaxWidth="522"  VerticalAlignment="Top" HorizontalAlignment="Left" x:Name="AddressBox" FontSize="16" Margin="26,83,0,0" Height="30" Width="522"/>
+        <TextBlock IsHitTestVisible="False" VerticalAlignment="Top" FontSize="16" Text="Адреса" HorizontalAlignment="Left" Margin="29,86,0,0" Foreground="DarkGray" Height="27" Width="80">
+            <TextBlock.Style>
+                <Style TargetType="{x:Type TextBlock}">
+                    <Setter Property="Visibility" Value="Collapsed"/>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding Text, ElementName=AddressBox}" Value="">
+                            <Setter Property="Visibility" Value="Visible"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </TextBlock.Style>
+        </TextBlock>
+        <TextBox  MinWidth="160" MaxWidth="160" VerticalAlignment="Top" HorizontalAlignment="Left" x:Name="EmailBox" FontSize="16" Margin="207,30,0,0" Height="30"/>
+        <TextBlock IsHitTestVisible="False" VerticalAlignment="Top" FontSize="16" Text="E-mail" HorizontalAlignment="Left" Margin="210,33,0,0" Foreground="DarkGray" Height="27" Width="80">
+            <TextBlock.Style>
+                <Style TargetType="{x:Type TextBlock}">
+                    <Setter Property="Visibility" Value="Collapsed"/>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding Text, ElementName=EmailBox}" Value="">
+                            <Setter Property="Visibility" Value="Visible"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </TextBlock.Style>
+        </TextBlock>
+        <TextBox  MinWidth="160" MaxWidth="160" VerticalAlignment="Top" HorizontalAlignment="Left" x:Name="SpecialtyCodeBox" FontSize="16" Margin="390,30,0,0" Height="30"/>
+        <TextBlock IsHitTestVisible="False" VerticalAlignment="Top" FontSize="16" Text="Код спеціальності" HorizontalAlignment="Left" Margin="393,33,0,0" Foreground="DarkGray" Height="27" Width="135">
+            <TextBlock.Style>
+                <Style TargetType="{x:Type TextBlock}">
+                    <Setter Property="Visibility" Value="Collapsed"/>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding Text, ElementName=SpecialtyCodeBox}" Value="">
+                            <Setter Property="Visibility" Value="Visible"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </TextBlock.Style>
+        </TextBlock>
+        
+        <ComboBox IsEditable="True" IsReadOnly="True" FontSize="16" x:Name="EducationFormBox" Text="Форма навчання" HorizontalAlignment="Left" Margin="26,138,0,0" VerticalAlignment="Top" Width="160" Height="30"/>
+        <ComboBox IsEditable="True" IsReadOnly="True" FontSize="16" x:Name="EducationLevelBox" Text="хз как назвать" HorizontalAlignment="Left" Margin="207,138,0,0" VerticalAlignment="Top" Width="160" Height="30"/>
+        <Button x:Name="CancelButton" Content="Назад"  FontSize="16" HorizontalAlignment="Left" Margin="26,216,0,0" VerticalAlignment="Top" Width="150" Height="32" Click="BackButton_Click"/>
+        <Button x:Name="SaveButton" Content="Зберегти" FontSize="16" HorizontalAlignment="Left" Margin="400,216,0,0" VerticalAlignment="Top" Width="150" Height="32" Click="SaveButton_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,49 @@
+﻿<Page x:Class="InstrClient.CourseControlPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+	xmlns:local="clr-namespace:InstrClient"
+      Title="Instructor Client" WindowHeight="650" WindowWidth="1100" ShowsNavigationUI="False" Loaded="Page_Loaded"
+	>
+
+    <Grid x:Name="MainGrid">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                <GradientStop Color="#FFBFD7EC" Offset="0"/>
+                <GradientStop Color="White" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="24"/>
+            <RowDefinition Height="411*"/>
+            <RowDefinition Height="25"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="212"/>
+            <ColumnDefinition Width="835*" MinWidth="500"/>
+        </Grid.ColumnDefinitions>
+        <local:MenuControl Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"/>
+        <local:Tree x:Name="TreeName" Grid.Row="1" Grid.Column="0"/>
+        <TabControl x:Name="LabTabs" Grid.Row="1" Grid.Column="1" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+            <TabItem x:Name="Projects" Header="Курсові роботи" MouseDown="Projects_MouseDown">
+                <Grid>
+                    <DataGrid x:Name="ProjectsGrid"  HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  Margin="3,3,3,33" IsReadOnly="True" SelectionChanged="ProjectsRow_Click" />
+                    <Button x:Name="AddLab" Width="200" Content="Додати курсову роботу" Height="25" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="20,0,0,5" Click="AddLab_Click"/>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="Events" Header="Курсова робота" MouseDown="Events_MouseDown">
+                <Grid>
+                    <DataGrid x:Name="EventsGrid"  HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  Margin="3,120,3,33" IsReadOnly="True" SelectionChanged="EventsRow_Click" Grid.ColumnSpan="2" />
+                    <TextBlock x:Name="Labname" HorizontalAlignment="Left" Width="200" Height="22" VerticalAlignment="Top" Margin="22,15,0,0" Grid.ColumnSpan="2"/>
+                    <TextBlock x:Name="LabSubject" HorizontalAlignment="Center" Width="200" Height="22" VerticalAlignment="Top" Margin="0,15,0,0"/>
+                    <Button x:Name="EditLab" Width="200" Content="Змінити курсову роботу" Height="25" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,15,22,0" Click="EditLab_Click"/>
+                    <TextBlock  x:Name="LabDescription" TextWrapping="Wrap" HorizontalAlignment="Stretch" Height="60" VerticalAlignment="Top" Margin="22,50,22,0" Grid.ColumnSpan="2"/>
+                    <Button x:Name="AddEvent" Width="200" Content="Додати івент" Height="25" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="20,0,0,5" Click="AddEvent_Click" Grid.ColumnSpan="2"/>
+                    <Button x:Name="EditEvent" Width="200" Content="Змінити івент" Height="25" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,5" Click="EditEvent_Click"/>
+                    <Button x:Name="DeleteEvent" Width="200" Content="Видалити івент" Height="25" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,20,5"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Page>

@@ -1,0 +1,51 @@
+﻿<Page x:Class="InstrClient.DiplomaControlPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:InstrClient"
+      Title="Instructor Client" WindowHeight="650" WindowWidth="1100" ShowsNavigationUI="False" Loaded="Page_Loaded">
+
+    <Grid x:Name="MainGrid">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                <GradientStop Color="#FFBFD7EC" Offset="0"/>
+                <GradientStop Color="White" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="24"/>
+            <RowDefinition Height="411*"/>
+            <RowDefinition Height="25"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="212"/>
+            <ColumnDefinition Width="835*" MinWidth="500"/>
+        </Grid.ColumnDefinitions>
+        <local:MenuControl Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"/>
+        <local:Tree x:Name="TreeName" Grid.Row="1" Grid.Column="0"/>
+        <TabControl x:Name="DiplomaTabs" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" SelectionChanged="DiplomaTabs_SelectionChanged">
+            <TabItem x:Name="PracticeTab" Header="Переддипломна практика">
+                <Grid>
+                    <Button x:Name="Vedomost" Content="Формування відомості" HorizontalAlignment="Left" VerticalAlignment="Top" Height="26" Width="150" Margin="15,10,0,0"/>
+                    <Button x:Name="Nakaz" Content="Формування наказу" HorizontalAlignment="Left" VerticalAlignment="Top" Height="26" Width="150" Margin="180,10,0,0"/>
+                    <Button x:Name="EditPractice" Content="Редагувати запис" HorizontalAlignment="Right" VerticalAlignment="Top" Height="26" Width="150" Margin="0,10,15,0"/>
+                    <DataGrid x:Name="PracticeGrid" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="5,50,5,5" />
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="ProjectingTab" Header="Дипломне проектування">
+                <Grid>
+                    <Button x:Name="SetDeadlines" Content="Задати дедлайни" HorizontalAlignment="Left" VerticalAlignment="Top" Height="26" Width="150" Margin="15,10,0,0" Click="SetDeadlines_Click"/>
+                    <Button x:Name="ChangeDeadlines" Content="Редагувати дедлайни" HorizontalAlignment="Left" VerticalAlignment="Top" Height="26" Width="150" Margin="180,10,0,0" Click="ChangeDeadlines_Click"/>
+                    <Button x:Name="EditProjecting" Content="Редагувати запис" HorizontalAlignment="Right" VerticalAlignment="Top" Height="26" Width="150" Margin="0,10,15,0"/>
+                    <DataGrid x:Name="ProjectingGrid" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="5,50,5,5" />       
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="JournalTab" Header="Журнал контролю здачі ДП">
+                <Grid>
+                    <DataGrid x:Name="JournalGrid" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="5,5,5,5" />
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Page>

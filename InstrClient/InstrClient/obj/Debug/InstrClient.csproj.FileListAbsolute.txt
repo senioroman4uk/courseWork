@@ -1,0 +1,178 @@
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\InstrClient.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\InstrClient_MarkupCompile.cache
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\InstrClient.g.resources
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\InstrClient.Properties.Resources.resources
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\InstrClient.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\bin\Debug\InstrClient.exe.config
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\bin\Debug\InstrClient.exe
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\bin\Debug\InstrClient.pdb
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\bin\Debug\CAccounts.dll
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\bin\Debug\CAccounts.pdb
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\InstrClient.exe
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\InstrClient.pdb
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\bin\Debug\MSG.dll
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\bin\Debug\ProjectType.dll
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\bin\Debug\MSG.pdb
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\bin\Debug\ProjectType.pdb
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\RegisterPage.baml
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\StartPage.baml
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\RegisterPage.g.cs
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\StartPage.g.cs
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\DiplomaControlPage.baml
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\DiplomaControlPage.g.cs
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\AddProjectWindow.baml
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\AddProjectWindow.g.cs
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\bin\Debug\InstrClient.exe.config
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\obj\Debug\InstrClient.exe
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\obj\Debug\InstrClient.pdb
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\bin\Debug\InstrClient.exe
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\bin\Debug\InstrClient.pdb
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\bin\Debug\CAccounts.dll
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\bin\Debug\MSG.dll
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\bin\Debug\ProjectType.dll
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\bin\Debug\CAccounts.pdb
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\bin\Debug\MSG.pdb
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\bin\Debug\ProjectType.pdb
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\obj\Debug\InstrClient.csprojResolveAssemblyReference.cache
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\obj\Debug\AddProjectWindow.baml
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\obj\Debug\DiplomaControlPage.baml
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\obj\Debug\RegisterPage.baml
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\obj\Debug\StartPage.baml
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\obj\Debug\Tree.baml
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\obj\Debug\AddProjectWindow.g.cs
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\obj\Debug\DiplomaControlPage.g.cs
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\obj\Debug\MainWindow.g.cs
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\obj\Debug\RegisterPage.g.cs
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\obj\Debug\StartPage.g.cs
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\obj\Debug\Tree.g.cs
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\obj\Debug\App.g.cs
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\obj\Debug\InstrClient_MarkupCompile.cache
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\obj\Debug\InstrClient_MarkupCompile.lref
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\obj\Debug\MainWindow.baml
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\obj\Debug\InstrClient.g.resources
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\obj\Debug\InstrClient.Properties.Resources.resources
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\obj\Debug\InstrClient.csproj.GenerateResource.Cache
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\obj\Debug\CourseControlPage.g.cs
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\obj\Debug\LabControlPage.g.cs
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\obj\Debug\RGRControlPage.g.cs
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\obj\Debug\CourseControlPage.baml
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\obj\Debug\LabControlPage.baml
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\obj\Debug\RGRControlPage.baml
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\obj\Debug\AddEventWindow.baml
+C:\Users\Dan\AppData\Roaming\Skype\My Skype Received Files\Course Work\InstrClient\InstrClient\obj\Debug\AddEventWindow.g.cs
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\AddEventWindow.baml
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\Tree.baml
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\AddEventWindow.g.cs
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\CourseControlPage.g.cs
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\LabControlPage.g.cs
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\RGRControlPage.g.cs
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\Tree.g.cs
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\InstrClient_MarkupCompile.lref
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\CourseControlPage.baml
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\LabControlPage.baml
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\RGRControlPage.baml
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\GroupControlPage.g.cs
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\StudentControlPage.g.cs
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\SubjectControlPage.g.cs
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\GroupControlPage.baml
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\StudentControlPage.baml
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\SubjectControlPage.baml
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\AddGroupWindow.baml
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\AddStudentWindow.baml
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\AddSubjectWindow.baml
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\AddGroupWindow.g.cs
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\AddStudentWindow.g.cs
+D:\Documents\Visual Studio 2013\Projects\Course Work\InstrClient\InstrClient\obj\Debug\AddSubjectWindow.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\bin\Debug\InstrClient.exe.config
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\InstrClient.exe
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\InstrClient.pdb
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\InstrClient.csprojResolveAssemblyReference.cache
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\AddEventWindow.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\AddGroupWindow.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\AddProjectWindow.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\AddSpecialityWindow.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\AddStudentWindow.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\AddSubjectWindow.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\FileControlWindow.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\RegisterPage.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\StartPage.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\Tree.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\AddEventWindow.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\AddGroupWindow.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\AddProjectWindow.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\AddSpecialityWindow.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\AddStudentWindow.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\AddSubjectWindow.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\FileControlWindow.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\GroupControlPage.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\SpecialityControlPage.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\StudentControlPage.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\SubjectControlPage.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\CourseControlPage.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\DiplomaControlPage.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\LabControlPage.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\MainWindow.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\RegisterPage.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\RGRControlPage.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\StartPage.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\Tree.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\App.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\InstrClient_MarkupCompile.cache
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\InstrClient_MarkupCompile.lref
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\bin\Debug\InstrClient.exe
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\bin\Debug\InstrClient.pdb
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\bin\Debug\CAccounts.dll
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\bin\Debug\MSG.dll
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\bin\Debug\ProjectType.dll
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\bin\Debug\CAccounts.pdb
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\bin\Debug\MSG.pdb
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\bin\Debug\ProjectType.pdb
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\GroupControlPage.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\SpecialityControlPage.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\StudentControlPage.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\SubjectControlPage.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\CourseControlPage.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\DiplomaControlPage.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\LabControlPage.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\MainWindow.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\RGRControlPage.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\InstrClient.g.resources
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\InstrClient.Properties.Resources.resources
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\InstrClient.csproj.GenerateResource.Cache
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\AccountWindow.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\MenuControl.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\SettingsWindow.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\AccountWindow.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\MenuControl.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\SettingsWindow.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\SetDeadlinesWindow.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\SetDeadlinesWindow.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\WorkWithLabs.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\WorkWithLabs.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\GradeEventWindow.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\GradeEventWindow.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\AddPenaltyWindow.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\EditEventWindow.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\AddPenaltyWindow.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\EditEventWindow.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\WorkWithRgr.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\WorkWithRgr.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\RecommendWindow.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\RecommendWindow.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\AddDiplomaWIndow.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\ManageDiplomaEventsWindow.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\StudentInfo.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\AddDiplomaWIndow.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\DeadlinePenaltyControlPage.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\ManageDiplomaEventsWindow.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\StudentInfo.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\WorkWithDiploma.g.cs
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\DeadlinePenaltyControlPage.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\WorkWithDiploma.baml
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\InstrClient\InstrClient\obj\Debug\InstrClient.AboutProgram.resources

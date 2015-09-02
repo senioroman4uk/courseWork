@@ -1,0 +1,17 @@
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\ServerV1\ServerV1\bin\x86\Debug\ServerV1.exe.config
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\ServerV1\ServerV1\bin\x86\Debug\DatabaseForTest.mdf
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\ServerV1\ServerV1\bin\x86\Debug\DatabaseForTest_log.ldf
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\ServerV1\ServerV1\bin\x86\Debug\ServerV1.exe
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\ServerV1\ServerV1\bin\x86\Debug\ServerV1.pdb
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\ServerV1\ServerV1\bin\x86\Debug\CAccounts.dll
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\ServerV1\ServerV1\bin\x86\Debug\MSG.dll
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\ServerV1\ServerV1\bin\x86\Debug\ProjectType.dll
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\ServerV1\ServerV1\bin\x86\Debug\CAccounts.pdb
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\ServerV1\ServerV1\bin\x86\Debug\MSG.pdb
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\ServerV1\ServerV1\bin\x86\Debug\ProjectType.pdb
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\ServerV1\ServerV1\obj\x86\Debug\ServerV1.csprojResolveAssemblyReference.cache
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\ServerV1\ServerV1\obj\x86\Debug\ServerV1.Form1.resources
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\ServerV1\ServerV1\obj\x86\Debug\ServerV1.Properties.Resources.resources
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\ServerV1\ServerV1\obj\x86\Debug\ServerV1.csproj.GenerateResource.Cache
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\ServerV1\ServerV1\obj\x86\Debug\ServerV1.exe
+C:\Users\Vladyslav\Desktop\TFS\CW\Course Work\ServerV1\ServerV1\obj\x86\Debug\ServerV1.pdb
